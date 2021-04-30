@@ -1,0 +1,52 @@
+state,median_household_income,share_unemployed_seasonal,share_population_in_metro_areas,share_population_with_high_school_degree,Code
+Alabama,42278,0.06,0.64,0.821,AL
+Alaska,67629,0.064,0.63,0.914,AK
+Arizona,49254,0.063,0.9,0.842,AZ
+Arkansas,44922,0.052,0.69,0.824,AR
+California,60487,0.059,0.97,0.806,CA
+Colorado,60940,0.04,0.8,0.893,CO
+Connecticut,70161,0.052,0.94,0.886,CT
+Delaware,57522,0.049,0.9,0,DE
+District of Columbia,68277,0.067,1,0.871,DC
+Florida,46140,0.052,0.96,0.853,FL
+Georgia,49555,0.058,0.82,0.839,GA
+Hawaii,71223,0.034,0.76,0.904,HI
+Idaho,53438,0.042,0.7,0.884,ID
+Illinois,54916,0.054,0.9,0.864,IL
+Indiana,48060,0.044,0.79,0.866,IN
+Iowa,57810,0.036,0.6,0.914,IA
+Kansas,53444,0.044,0.64,0.897,KS
+Kentucky,42786,0.05,0.56,0.817,KY
+Louisiana,42406,0.06,0.81,0.822,LA
+Maine,51710,0.044,0.54,0.902,ME
+Maryland,76165,0.051,0.97,0.89,MD
+Massachusetts,63151,0.046,0.97,0.89,MA
+Michigan,52005,0.05,0.87,0.879,MI
+Minnesota,67244,0.038,0.75,0.915,MN
+Mississippi,35521,0.061,0.45,0.804,MS
+Missouri,56630,0.053,0.78,0.868,MO
+Montana,51102,0.041,0.34,0.908,MT
+Nebraska,56870,0.029,0.6,0.898,NE
+Nevada,49875,0.067,0.87,0.839,NV
+New Hampshire,73397,0.034,0.63,0.913,NH
+New Jersey,65243,0.056,1,0.874,NJ
+New Mexico,46686,0.068,0.69,0.828,NM
+New York,54310,0.051,0.94,0.847,NY
+North Carolina,46784,0.058,0.76,0.843,NC
+North Dakota,60730,0.028,0.5,0.901,ND
+Ohio,49644,0.045,0.75,0.876,OH
+Oklahoma,47199,0.044,0.59,0.856,OK
+Oregon,58875,0.062,0.87,0.891,OR
+Pennsylvania,55173,0.053,0.87,0.879,PA
+Rhode Island,58633,0.054,1,0.847,RI
+South Carolina,44929,0.057,0.79,0.836,SC
+South Dakota,53053,0.035,0.51,0.899,SD
+Tennessee,43716,0.057,0.82,0.831,TN
+Texas,53875,0.042,0.92,0.799,TX
+Utah,63383,0.036,0.82,0.904,UT
+Vermont,60708,0.037,0.35,0.91,VT
+Virginia,66155,0.043,0.89,0.866,VA
+Washington,59068,0.052,0.86,0.897,WA
+West Virginia,39552,0.073,0.55,0.828,WV
+Wisconsin,58080,0.043,0.69,0.898,WI
+Wyoming,55690,0.04,0.31,0.918,WY
