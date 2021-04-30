@@ -1,0 +1,2 @@
+render partial: "state.json.jb", locals: { state: @state }
+

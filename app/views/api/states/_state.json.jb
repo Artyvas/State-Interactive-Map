@@ -1,0 +1,8 @@
+{
+  name: state.name,
+  code: state.code,
+  med_inc: state.med_inc,
+  per_unemp_seas: state.per_unemp_seas,
+  per_pop_metro: state.per_pop_metro,
+  per_pop_high: state.per_pop_high,
+}
